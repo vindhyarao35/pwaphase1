@@ -1,0 +1,43 @@
+{
+	"profile":{
+		"img":"1235.png",
+		"name":"vindhya",
+		"roll":"17NN1A1235",
+		"place":"chpet",
+		"gmail":"nvindhyachowdary@gmail.com"
+	},
+	"career":{
+		"info":"i want to get job in mnc companies"
+	},
+	"educational":[
+		{
+			"degree":"b.tech",
+			"institute":"abc",
+			"per":"70%",
+			"yop":"2018"
+		},
+			{
+			"degree":"inter",
+			"institute":"ab",
+			"per":"79%",
+			"yop":"2014"
+		},
+			{
+			"degree":"scc",
+			"institute":"ac",
+			"per":"74%",
+			"yop":"2016"
+		}
+],
+	"langagues":[
+		{
+			"info":"eng"
+        },{
+        	"info":"tel"
+        },{
+        	"info":"hindi"
+        }
+        ]
+}
+
+		
